@@ -86,6 +86,13 @@ public class Sheep : MonoBehaviour
     }
     private void Drop()
     {
+        if (CompareTag("Dog"))
+        {
+            sheepSpawner.RemoveSheepFromList(gameObject);
+            Destroy(gameObject);
+            return;
+        }
+
         if (hasBeenDropped) return;
         hasBeenDropped = true;
 

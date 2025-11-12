@@ -31,7 +31,7 @@ public class SheepSpawner : MonoBehaviour
         Vector3 randomPosition = sheepSpawnPositions[Random.Range(0, sheepSpawnPositions.Count)].position; // 1
 
         GameObject prefabToSpawn;
-        int randomValue = Random.Range(0, 3);
+        int randomValue = Random.Range(0, 6);
 
         if (randomValue == 0)
         {

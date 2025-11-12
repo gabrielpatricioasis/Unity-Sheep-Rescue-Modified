@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\assets\\rw\\scripts\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|c:\\users\\gabri\\documents\\csim\\p2 - introduction to scripting part 1\\introduction to scripting part 1\\assets\\rw\\scripts\\sheepspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\sheepspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\assets\\rw\\scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\assets\\rw\\scripts\\haymachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\haymachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\assets\\rw\\scripts\\shared\\haymachineswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\shared\\haymachineswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\assets\\rw\\scripts\\shared\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\shared\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\assets\\rw\\scripts\\shared\\haymachinecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\shared\\haymachinecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\assets\\rw\\scripts\\title\\changecoloronmouseover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|Assembly-CSharp.csproj|solutionrelative:assets\\rw\\scripts\\title\\changecoloronmouseover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sheep.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Sheep.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\Sheep.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Sheep.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\Sheep.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:53:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Managers\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\Managers\\GameStateManager.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Managers\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\Managers\\GameStateManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:51:48.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SheepSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\SheepSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\SheepSpawner.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\SheepSpawner.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\SheepSpawner.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:35:03.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HayMachine.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\HayMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\HayMachine.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\HayMachine.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\HayMachine.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:03:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HayMachineSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:00:22.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Shared\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\Shared\\GameSettings.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Shared\\GameSettings.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\Shared\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:58:43.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HayMachineColor.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Shared\\HayMachineColor.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\Shared\\HayMachineColor.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Shared\\HayMachineColor.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\Shared\\HayMachineColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:57:32.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangeColorOnMouseOver.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "RelativeDocumentMoniker": "Assets\\RW\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\CSIM\\P2 - Introduction to Scripting Part 1\\Introduction to Scripting Part 1\\Assets\\RW\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "RelativeToolTip": "Assets\\RW\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:48:22.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
